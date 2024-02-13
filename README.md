@@ -17,5 +17,11 @@ git add
 git commit
 ```
 
+## คำสั่ง python พื้นฐาน
+```
+d = {'phakphum':3.99, 'testo': 3.88}
+for k,v in d.items():
+    print(k,v)
+```
 
 ภาคภูมิ ยิ้มโกทักษ์
