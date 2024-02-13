@@ -5,7 +5,7 @@
 
 สำหรับวิชาOOP
 
-![dowload banner]![Uploading แสงอุ.jpg…]()
+![banner]![Uploading แสงอุ.jpg…]()
 
 
 ภาคภูมิ ยิ้มโกทักษ์
